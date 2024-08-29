@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Games development at UTN
 - 📫 How to reach me https://natali_scrossopi.artstation.com
 - 😄 Pronouns: Her
-- ⚡ Fun fact: I have 8 cats =^.^=
+- ⚡ Fun fact: I have 9 cats =^.^=
 
 <!---
 SelesnyaCharm/SelesnyaCharm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
